@@ -9,6 +9,7 @@
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
+
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) 
 ![Tableau](https://img.shields.io/badge/tableau-E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white) 
@@ -16,6 +17,7 @@
 ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) 
 
 **🛠️ Infra and Tools**
+
 ![Notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) 
 ![Google Colab](https://img.shields.io/badge/googlecolab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white) 
